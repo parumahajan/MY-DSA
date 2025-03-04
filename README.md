@@ -1,3 +1,3 @@
 # MY-DSA
 
-This repositor
+This repository
