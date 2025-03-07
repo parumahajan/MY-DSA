@@ -1,3 +1,3 @@
 # MY-DSA
 
-This repository contains al
+This repository contains all
