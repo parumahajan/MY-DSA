@@ -1,3 +1,3 @@
 # MY-DSA
 
-This repository contains all the DS
+This repository contains all the DSA
