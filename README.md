@@ -1,3 +1,3 @@
 # MY-DSA
 
-This repository contains all the DSA codes I have writ
+This repository contains all the DSA codes I have writt
